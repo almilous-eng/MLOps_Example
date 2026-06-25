@@ -1,0 +1,8 @@
+name: MLOps-dev
+channels:
+  - defaults
+dependencies:
+  - python=3.12.0
+  - jupyterlab
+  - ipykernel
+prefix: C:\Users\a.milousis\AppData\Local\anaconda3\envs\MLOps-dev
